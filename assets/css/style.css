@@ -147,6 +147,9 @@ h2 {
     color: white;
     padding: 2rem 0;}
 
+#submit {
+    margin-bottom: 2rem;
+}
 
 /* grid visualisation CSS for testing */
 
