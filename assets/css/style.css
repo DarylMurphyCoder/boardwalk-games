@@ -138,6 +138,14 @@ h2 {
     background-color: transparent;
 }
 
+#eventspage  {
+    background-color: transparent;
+}
+
+#discount {
+    background-color: var(--highlight-color);
+    color: white;
+    padding: 2rem 0;}
 /* grid visualisation CSS for testing */
 
 /* .container,
